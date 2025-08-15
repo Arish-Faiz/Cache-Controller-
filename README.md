@@ -41,11 +41,6 @@ The Verilog RTL was synthesized and implemented using **OpenLane** with the **Sk
 
 ---
 
-## 📷 Layout Preview  
-![GDSII Layout](gds/my_chip_gds.png)  
-
----
-
 ## 📜 License  
 This project is licensed under the MIT License — see the LICENSE file for details.
 
