@@ -17,6 +17,14 @@ This repository contains the complete design and implementation of a direct-mapp
 
 The Verilog RTL was successfully synthesized and implemented using the **OpenLane** automated flow with the **SkyWater 130nm** PDK.
 
+### Key Metrics
+
+| Metric | Value |
+| :--- | :--- |
+| Die Area | *76642 µm²* |
+| Total Power | *41.1 µW* |
+| Worst Negative Slack (WNS) | *0.00 ns* 
+
 
 ---
 
