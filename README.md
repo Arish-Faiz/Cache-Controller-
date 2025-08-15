@@ -1,4 +1,4 @@
-# 🚀 Direct-Mapped Cache Controller in Verilog   
+# 🚀 Direct-Mapped Cache Controller in Verilog (Self Project)  
 
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-blue.svg)
 
