@@ -1,7 +1,6 @@
-# 🚀 Direct-Mapped Cache Controller in Verilog 
+# 🚀 Direct-Mapped Cache Controller in Verilog   
 
-**Author:** Arish Faiz — M.Tech, IIT Bombay *(Integrated Circuit & Systems)*  
-**Course/Project:** Self Project  
+![Verilog](https://img.shields.io/badge/HDL-Verilog-blue.svg)
 
 This repository contains the complete design and implementation of a direct-mapped L1 cache controller.  
 The project covers the **entire VLSI flow** — from initial RTL design in Verilog and functional verification to the final **GDSII layout** generated using OpenLane.
@@ -39,8 +38,15 @@ The Verilog RTL was synthesized and implemented using **OpenLane** with the **Sk
 - **Verification:** Verilog Testbench, ModelSim/Vivado Simulator  
 - **Physical Design:** OpenLane, SkyWater 130nm PDK  
 
+
+
 ---
 
-## 📜 License  
-This project is licensed under the MIT License — see the LICENSE file for details.
+## 👨‍💻 Author
+**Arish Faiz**  
+Branch: **EE6 (ICS)**  
+Roll No: **23M1179**  
+**Indian Institute of Technology Bombay (IIT Bombay)**
+
+
 
