@@ -2,6 +2,8 @@
 
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-blue.svg)
 
+## 📜 Overview
+
 This repository contains the complete design and implementation of a direct-mapped L1 cache controller.  
 The project covers the **entire VLSI flow** — from initial RTL design in Verilog and functional verification to the final **GDSII layout** generated using OpenLane.
 
